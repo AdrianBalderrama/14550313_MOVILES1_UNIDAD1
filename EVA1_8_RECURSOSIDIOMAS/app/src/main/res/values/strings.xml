@@ -1,0 +1,29 @@
+<resources>
+    <string name="EVA1_8_IDIOMAS">EVA1_8_RECURSOSIDIOMAS</string>
+    <string name="idioma_sp">idioma:</string>
+    <string name="espaniol_sp">Español:</string>
+    <string name="ingles_sp">Ingles:</string>
+    <string name="eti_nom_sp">Nombre:</string>
+    <string name="eti_ape_sp">Apellido:</string>
+    <string name="hint_nom_sp">inserte nombre:</string>
+    <string name="hint_ape_sp">inserte apellido:</string>
+    <string name="hint_edad_sp">inserte edad:</string>
+    <string name="genero_sp">genero:</string>
+    <string name="mas_sp">masculino:</string>
+    <string name="fem_sp">femenino:</string>
+    <string name="eti_edad_sp">edad:</string>
+
+    <string name="idioma_en">language:</string>
+    <string name="espaniol_en">spanish:</string>
+    <string name="ingles_en">english:</string>
+    <string name="eti_nom_en">name:</string>
+    <string name="eti_ape_en">last name:</string>
+    <string name="hint_nom_en">insert name:</string>
+    <string name="hint_ape_en">insert last name:</string>
+    <string name="hint_edad_en">insert age:</string>
+    <string name="genero_en">insert sex:</string>
+    <string name="mas_en">male:</string>
+    <string name="fem_en">female:</string>
+    <string name="eti_edad_en">age:</string>
+
+</resources>
